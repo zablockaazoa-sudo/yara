@@ -150,3 +150,4 @@ awesome list of [YARA-related stuff](https://github.com/InQuest/awesome-yara).
 * [YALIH](https://github.com/Masood-M/YALIH)
 
 Are you using it? Want to see your site listed here?
+yes
